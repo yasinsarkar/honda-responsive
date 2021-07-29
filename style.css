@@ -7,3 +7,12 @@
 .bg-btn{
     background-color: #E76F51;
 }
+.star{
+    color: orange;
+    
+}
+footer{
+    background-color: #264653;
+    height: 200px;
+    margin-top: 100px;
+}
